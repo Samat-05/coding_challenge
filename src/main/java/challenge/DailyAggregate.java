@@ -1,4 +1,4 @@
-package com.challenge;
+package challenge;
 
 public class DailyAggregate {
 

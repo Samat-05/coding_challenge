@@ -1,4 +1,4 @@
-package com.challenge;
+package challenge;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
